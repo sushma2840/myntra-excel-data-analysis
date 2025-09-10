@@ -6,8 +6,7 @@
 ---
 
 ## Short description
-This repository contains an Excel-based data analysis project on Myntra. The project shows the process from raw data → cleaning → analysis → interactive dashboards (Product Category and Brand Name). The main artifact is the Excel workbook and supporting screenshots.
-
+This repository contains an Excel-based data analysis project on Myntra. The project shows the process from raw data → cleaning → analysis → interactive dashboards (Product Category and Brand Name). The main artifact are the Excel workbooks.
 ---
 
 ## Table of contents
@@ -48,12 +47,28 @@ Myntra_Excel_Data_Analysis/
 │   └─ Cleaned_Data.xlsx
 ├─ Data_Analysis/
 │   └─ Data_Analysis.xlsx
-├─ Product_Category_Dashboard/
+├─ PCD/
 │   └─ Product_Category_Dashboard.xlsx
 ├─ PCD_Charts/
 │   └─ PCD_Charts.xlsx
-├─ Brand_Name_Dashboard/
+├─ BND/
 │   └─ Brand_Name_Dashboard.xlsx
 ├─ BND_Charts/
 │   └─ BND_Charts.xlsx
 ```
+
+---
+
+
+## How to preview the work
+Download the Excel files from the folders above and open them in **Microsoft Excel** (or **Excel Online**) to explore the cleaning steps, analysis, and dashboards.
+
+## License
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+## Contact
+Created by **Sushma Sharma**, an aspiring Data Analyst.
+Your can reach me here:
+
+- LinkedIn: [Sushma Sharma](https://www.linkedin.com/in/sushma-s-45b2812b6)
+- Email: [sushmasharma03022001@gmail.com](mailto:sushmasharma03022001@gmail.com)

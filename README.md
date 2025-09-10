@@ -71,4 +71,5 @@ Created by **Sushma Sharma**, an aspiring Data Analyst.
 Your can reach me here:
 
 - LinkedIn: [Sushma Sharma](https://www.linkedin.com/in/sushma-s-45b2812b6)
+- Github: [sushma2840](https://github.com/sushma2840)
 - Email: [sushmasharma03022001@gmail.com](mailto:sushmasharma03022001@gmail.com)

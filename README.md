@@ -39,17 +39,21 @@ This repository contains an Excel-based data analysis project on Myntra. The pro
 ```text
 Myntra_Excel_Data_Analysis/
 ├─ Raw_Data/
-│ └─ Raw_Data.xlsx
+│   └─ Raw_Data.xlsx
 ├─ Somewhat_Clean/
-│ └─ Somewhat_Clean.xlsx
+│   └─ Somewhat_Clean.xlsx
 ├─ Table/
-│ └─ Table.xlsx
+│   └─ Table.xlsx
 ├─ Cleaned_Data/
-│ └─ Cleaned_Data.xlsx
+│   └─ Cleaned_Data.xlsx
 ├─ Data_Analysis/
-│ └─ Data_Analysis.xlsx
+│   └─ Data_Analysis.xlsx
 ├─ Product_Category_Dashboard/
-│ └─ PCD.xlsx
-├─ BND_Dashboard/
-│ └─ BND.xlsx
+│   └─ Product_Category_Dashboard.xlsx
+├─ PCD_Charts/
+│   └─ PCD_Charts.xlsx
+├─ Brand_Name_Dashboard/
+│   └─ Brand_Name_Dashboard.xlsx
+├─ BND_Charts/
+│   └─ BND_Charts.xlsx
 ```
